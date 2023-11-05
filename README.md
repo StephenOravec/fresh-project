@@ -3,7 +3,7 @@
 
 ## Hey
 
-[Deployed at https://clean-rhino-61.deno.dev/](https://clean-rhino-61.deno.dev/)
+Deployed at [https://clean-rhino-61.deno.dev/](https://clean-rhino-61.deno.dev/)
 
 ## /Hey
 
